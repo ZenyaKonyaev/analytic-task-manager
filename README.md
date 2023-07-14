@@ -88,7 +88,18 @@
 
 ![er-diagram](diagrams/ErTaskManager.png)
 
+## UML диаграмма сущностей базы данных
 
+---
+
+![er-diagram-bd](diagrams/entityDiagramTodoListApp.png)
+
+## Диаграмма компонентов
+
+---
+
+![uml-diagram](diagrams/uml_2.png)
+![uml-diagram](diagrams/uml_1.png)
 
 
 
